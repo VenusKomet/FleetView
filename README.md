@@ -1,2 +1,2 @@
 # FleetView
-Digitale Fuhrparkverwaltung
+Entwicklung einer Digitalen Fuhrparkverwaltungs Software innerhalb eines Schulprojektes.
